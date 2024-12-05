@@ -7,6 +7,7 @@ This project explores the question: What are the different types of watermarking
 
 ## Running the project
 
+First git clone the repository on your local machine, and make sure that you have a gpu that can run the notebook. 
 To install the dependencies, run the following command from the root directory of the project: pip install -r requirements.txt
 
 Use the demo.ipynb file in the notebook folder to look at the destructive attacks and its effect on images. We also tried our own attack combined a destructive and constructive attack. Also, see how the stable diffusion regeneration attack works on different types of watermarks and its evaluations.  
